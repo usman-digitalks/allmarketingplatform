@@ -1,0 +1,3 @@
+include ':allmarketingplatform'
+include ':app'
+rootProject.name = "AllMarketingPlatformSample"
